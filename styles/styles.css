@@ -311,12 +311,12 @@ footer .content{
 /* Media Query */
 @media (max-width:767px){
     /* Nav */
+    .navigationOne > a, .navigationOne > button{
+        order: -1;
+    }
     .fluid-nav{
         border-top: none;
         border-bottom: none;
-    }
-    .navigationOne .link-desktop {
-        display: none!important;
     }
     .navigationTwo div ul li{
         border-left: none;
