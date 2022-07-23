@@ -51,14 +51,15 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Order on mobile
 - Bootstrap (navigation menu)
-- Desktop > Mobile sections workflow
+- Desktop & Mobile sections workflow
 
 ### Challenges i faced
 
-- Hamburger menu: it's quit easy to just go and watch a tutorial on how to make a Humburger menu using JS and follow the tutorial without knowing what you are doing. I didn't want do that because im about to start learning js anyways and its just not going to help when you dont even know the basic of JS so i decided to just use Bootstrap library and that was the only reason why i used bootstrap from the first place.
+- Hamburger menu: it's quit easy to just go and watch a tutorial on how to make a Hamburger menu using JS and follow the tutorial without knowing what you are doing. I didn't want do that because im about to start learning js anyways and its just not going to help when you dont even know the basic of JS so i decided to just use Bootstrap library and that was the only reason why i used bootstrap from the first place.
 
-- Using css as my focus while Bootstrap is running the background: This was quit difficult trying to focus on css while bootstrap running on the background, like i mentioned above, my only purpose of using Bootstrap was because of Humburger menu, but because of that i had to deal with alot of debugs because of Bootstrap css properties.
+- Using css as my focus while Bootstrap is running the background: This was quit difficult trying to focus on css while bootstrap running on the background, like i mentioned above, my only purpose of using Bootstrap was because of Hamburger menu, but because of that i had to deal with alot of debugs because of Bootstrap css properties.
 
 - Plans section: I had a hard time to figure how to make the middle plan above the others, and that was making the margin negative.
 
